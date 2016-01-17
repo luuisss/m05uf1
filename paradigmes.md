@@ -5,7 +5,7 @@ van ser concebuts, és la següent:
 _Selecció_, _Iteració_
 
 **• Paradigma d’objectes:** El paradigma d’objectes, típicament conegut com a Programació Orientada
-a Objectes (POO, o OOP en anglès), és un paradigma de construcció de
+a Objectes, és un paradigma de construcció de
 programes basat en una abstracció del món real
 
 **• Paradigma funcional:** El paradigma funcional està basat en un model matemàtic. La idea és que
